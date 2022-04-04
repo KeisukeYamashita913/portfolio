@@ -1,0 +1,36 @@
+@font-face{
+	font-family: 'MyFont';
+	src: url(Corporate-Logo-Rounded.ttf);
+}
+
+body {
+	margin: 0;
+	background-image: url("bg2.png");
+	font-size: 16px;
+	text-align: center;
+}
+
+
+#header{
+	font-family: 'MyFont';
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#main{
+	width:70%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto ;
+	margin-right: auto ;
+}
+
+#mainmain{
+	    background-color: rgba(203,255,245,0.7);
+	    border-radius:14px;
+		margin-top: 10px;
+		background-color:　#99cc00;
+		text-align: left;
+		-ms-filter: blur(6px);
+  　　　filter: blur(6px);
+}
